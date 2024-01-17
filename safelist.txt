@@ -24,6 +24,10 @@ after:bg-salmon
 after:bg-seagreen
 after:bg-teal
 after:bg-aqua
+after:bg-[#36C46F]
+after:bg-[#43B6E7]
+after:bg-[#8567FF]
+after:bg-[#2EA2D3]
 after:border-yellow
 after:border-seagreen
 before:border-yellow
@@ -52,11 +56,14 @@ bg-yellow/10
 bg-aqua
 bg-aqua/10
 bg-[#F2AD46]
+bg-[#36C46F]
 bg-[#1371FF]
 bg-[#29DBBB]
 bg-[#9C19BD]
+bg-[#43B6E7]
 bg-[#D42F18]
 bg-[#FCC779]
+bg-[#8567FF]
 border-blue
 border-green
 border-opacity-100
@@ -70,6 +77,9 @@ border-salmon
 border-seagreen
 border-teal
 border-aqua
+border-[#36C46F]
+border-[#2EA2D3]
+border-[#8567FF]
 col-span-7
 flex
 flex
@@ -157,6 +167,7 @@ sm:-ml-8
 space-x-reverse
 text-blue
 text-green
+text-lime-green
 text-opacity-100
 text-opacity-50
 text-orange
@@ -167,6 +178,11 @@ text-salmon
 text-seagreen
 text-teal
 text-aqua
+text-light-blue
+text-[#36C46F]
+text-[#43B6E7]
+text-[#8567FF]
+text-[#2EA2D3]
 to-tan/0
 via-tan/85
 w-2/12
